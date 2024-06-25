@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
-=======================================
+Bacula project
+==============
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Welcome to the project for backuping with Bacula
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+Here are the steps followed : ``steps.rst``
