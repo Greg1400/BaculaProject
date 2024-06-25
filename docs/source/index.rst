@@ -1,22 +1,19 @@
-Welcome to Lumache's documentation!
+Bacula Project's documentation
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Bacula** is a a backing up software which checks and restores files in a client-server mode in a network. Note that it's an *Open-Source* Solution. You can find more 
+information about Bacula under the link : `Bacula Website <https://www.baculasystems.com/>`_.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Check out the :doc:`Objectivs` to learn more about this project and refer to the how to :ref:`steps` the project.
 
 .. note::
+   This project in under active development as it's documentation.
 
-   This project is under active development.
-
-Contents
---------
+Sitemap
+-------
 
 .. toctree::
 
-   usage
-   api
+   objectivs
+   steps
+
