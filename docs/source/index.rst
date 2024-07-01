@@ -13,7 +13,7 @@ Sitemap
 -------
 
 .. toctree::
-
+   :numbered:
    objectivs
    steps
 
