@@ -65,7 +65,7 @@ Open Microsoft Edge and click on the 3 ". . ." up right. Go to ``Settings`` > ``
 #. Close and reopen MS Edge and go to the address of the switch
 
 #. You will perhaps have to accept to reload in IE mode
-#. Now, you're able to connect through the web to the Switch Configuration with the `credentials <credentials>`_ above.
+#. Now, you're able to connect through the web to the Switch Configuration with the :ref:`credentials` above.:ref:`credentials`
 
 .. note::
     ``Startup Configuration File`` and ``Running Configuration File`` are different. 
