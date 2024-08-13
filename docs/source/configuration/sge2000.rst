@@ -1,0 +1,35 @@
+SWITCH CONFIGURATION
+====================
+
+Main information
+----------------
+
+* Connected port : '''1'''
+
+* IP CONFIGURATION :
+
+  -a ADDRESS : 192.168.0.65
+
+  -b MASK : 255.255.255.0
+
+  -c GATEWAY : 192.168.0.1
+* Credentials
+
+  -u administrator
+
+  -p L4TLinksys
+
+* System Name : SW-L4T-BACULA
+
+Link Aggregate Group
+--------------------
+
++-------+------------+--------------------+
+|   LAG |     NAME   |        MEMBER      |
++=======+============+====================+
+| LAG 1 | S-Director |   g2, g3, g4, g5   |
++-------+------------+--------------------+
+| LAG 2 | S-Cockpit  |   g6, g7, g8, g9   |
++-------+------------+--------------------+
+| LAG 3 |  S-Client  | g10, g11, g12, g13 |
++-------+------------+--------------------+
